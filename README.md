@@ -1,3 +1,3 @@
 # printf Project By:
-## Mr. Barret Akhatsokhe
-## Mr. Emmanuel Somtoochukwu Uzoekwe
+## Barret Akhatsokhe
+## Emmanuel Somtoochukwu Uzoekwe
